@@ -27,6 +27,8 @@
   ---
   
 ### :man_technologist: About Me :
+  
+- 🉑 Education: higher.
 
 - :telescope: I’m working as Engineer.
 
