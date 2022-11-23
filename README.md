@@ -1,4 +1,7 @@
 <div id="header" align="center">
+ <h2>
+  Hi there, I'm Andrey.
+</h2>
   <img src="https://media.giphy.com/media/sQB6lgeTlv5Krjq7YN/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center"> 
@@ -14,10 +17,7 @@
 </div>
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=mrnewpan&style=flat-square&color=blue" alt=""/>
-<h1>
-  Welcome
-  <img src="https://media.giphy.com/media/sa5tk2gi3G1MSmy1vY/giphy.gif" width="50px"/>
-</h1>
+
 </div>
 <div id="badges" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -38,7 +38,7 @@
   
   ---
   
-- ### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 - <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
