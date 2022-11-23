@@ -1,7 +1,14 @@
+<h3>
 <div id="header" align="center">
- <h2>
-  Hi there, I'm Andrey.
-</h2>
+ Hi, I am Andrey from Perm.
+ </div>
+</h3>
+ 
+* :electric_plug: Love to help people 
+*  🤖 I do like automation
+
+ <div id="header" align="center">
+ 
   <img src="https://media.giphy.com/media/sQB6lgeTlv5Krjq7YN/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center"> 
@@ -55,4 +62,7 @@
   ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrnewpan&theme=dark&background=000000)](https://git.io/streak-stats)
 
+ ---
+ 
+ [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
   
