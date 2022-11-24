@@ -4,7 +4,7 @@
  </div>
 </h3>
  
-* :electric_plug: Love to help people 
+* :electron: I’m interested in the crypto world 
 *  🤖 I do like automation
 
  <div id="header" align="center">
